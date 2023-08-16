@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataVisualiser", "DataVisualiser\DataVisualiser.csproj", "{19929D41-4405-452C-8F11-28692B01AEBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DevExtreme NuGet.config", "DevExtreme NuGet.config", "{19487C69-9AD3-47D7-904F-0F0FBEB4D7BC}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet.config = NuGet.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19929D41-4405-452C-8F11-28692B01AEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19929D41-4405-452C-8F11-28692B01AEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19929D41-4405-452C-8F11-28692B01AEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19929D41-4405-452C-8F11-28692B01AEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3512033C-47DB-4224-AC54-55F497545F70}
+	EndGlobalSection
+EndGlobal
